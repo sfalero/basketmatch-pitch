@@ -54,7 +54,13 @@ El pitch ejecutivo está disponible en formato HTML interactivo. Para verlo:
 3. **Plataforma Digital** - Web/app con pagos automatizados
 4. **Escalamiento** - Expansión a otras ciudades
 
-## 📞 Contacto
+## � Enlaces
+
+- **Repositorio**: [GitHub](https://github.com/sfalero/basketmatch-pitch)
+- **Pitch Ejecutivo Online**: [Ver Pitch](https://sfalero.github.io/basketmatch-pitch/pitch_ejecutivo.html)
+- **Demo**: Próximamente
+
+## �📞 Contacto
 
 Para más información sobre el proyecto o oportunidades de inversión, contactar:
 
